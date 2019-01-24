@@ -1,2 +1,3 @@
 # CourierManagementSystem
-Connected the database with python to modify, retrieve, store the data in the database.
+A sample code which is used to modify, insert, delete, store, retrieve the data in the database(.db)
+using sqlite3 library in python.
